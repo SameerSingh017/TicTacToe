@@ -43,6 +43,8 @@ TicTacToe/
 
 Or open index.html directly in your browser (audio may be restricted without a server).
 
+---
+
 ## 🎮 How to Play
 
 Player X always starts.
@@ -50,6 +52,8 @@ Click an empty cell to place your mark.
 Alternate turns until someone wins or the board is full.
 A purple line and victory GIF appear when a player wins.
 Use Reset to start a new game.
+
+---
 
 ## 🎵 Assets
 
@@ -60,7 +64,10 @@ assets/ting.mp3 → Plays on each move
 
 Fonts via Google Fonts
 
+---
 
 ## 👨‍💻 Author: Sameer Singh
 ## 📧 Contact: sameer0555singh@gmail.com
+
+---
 
