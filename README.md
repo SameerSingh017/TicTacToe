@@ -5,6 +5,8 @@ Challenge your friends locally and enjoy a clean, responsive design with sound e
 
 ---
 
+## 🔗 Live Page
+[Live TicTacToe Game](https://mytictactoe-by-ss.netlify.app)
 ## 🛠 Features
 
 - ✅ Two-player local gameplay (X vs O)  
