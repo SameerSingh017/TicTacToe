@@ -1,11 +1,11 @@
-**# 🎯 Tic Tac Toe Web Game**
+# 🎯 Tic Tac Toe Web Game
 
 A fun and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**.  
 Challenge your friends locally and enjoy a clean, responsive design with sound effects.
 
 ---
 
-**## 🛠 Features**
+## 🛠 Features
 
 - ✅ Two-player local gameplay (X vs O)  
 - ✅ Responsive design for mobile and desktop  
@@ -15,7 +15,7 @@ Challenge your friends locally and enjoy a clean, responsive design with sound e
 
 ---
 
-**## 📂 Project Structure**
+## 📂 Project Structure
 
 TicTacToe/  
  ├── index.html # Main HTML structure  
@@ -32,7 +32,7 @@ TicTacToe/
 
 ---
 
-**## 🚀 How to Run**
+## 🚀 How to Run
 
 **Clone or download** this repository:  
 ```bash
@@ -44,7 +44,7 @@ Or open `index.html` directly in your browser *(audio may be restricted without 
 
 ---
 
-**## 🎮 How to Play**
+## 🎮 How to Play
 
 - Player X always starts.  
 - Click an empty cell to place your mark.  
@@ -54,7 +54,7 @@ Or open `index.html` directly in your browser *(audio may be restricted without 
 
 ---
 
-**## 🎵 Assets**
+## 🎵 Assets
 
 - `assets/excited.gif` → Displayed on victory  
 - `assets/gameover.mp3` → Plays when the game ends  
@@ -64,9 +64,9 @@ Or open `index.html` directly in your browser *(audio may be restricted without 
 Fonts via [Google Fonts](https://fonts.google.com/)
 
 ---
-
-**## 👨‍💻 Author:** Sameer Singh  
-**## 📧 Contact:** sameer0555singh@gmail.com  
+## 📮 Contact
+### 👨‍💻 Author: Sameer Singh  
+### 📧 Email: sameer0555singh@gmail.com  
 
 ---
 
